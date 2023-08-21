@@ -7,8 +7,6 @@ title: ""
 
 **Hongrong Yang**, Yinliang Xu, Qinglai Guo, "[Charging Station Dynamic Pricing for Real-Time Congestion Management in Distribution Network: An Adaptive Model-Based Safe Deep Reinforcement Learning Method]." *IEEE Transactions on Sustainable Energy*, in revision.
 
-**Hongrong Yang**, Yinliang Xu, Hongbin Sun, Qinglai Guo, Qiong Liu, "[Electric Vehicles Management in
-Distribution Network: A Data-Efficient Bi-level Deep Reinforcement Learning Method.](https://hongrongyang.github.io/1.pdf)" *IEEE Transactions on Power Systems*, under review.
+**Hongrong Yang**, Yinliang Xu, Hongbin Sun, Qinglai Guo, Qiong Liu, "[Electric Vehicles Management in Distribution Network: A Data-Efficient Bi-level Deep Reinforcement Learning Method.](https://hongrongyang.github.io/1.pdf)" *IEEE Transactions on Power Systems*, under review.
 
-Liming Zhou, Shuhui Ren, Bin Nie, **Hongrong Yang**，Peng Liu, "[Magneto-electro-elastic node-based
-smoothed point interpolation method for micromechanical analysis of natural frequencies of nanobeams.](https://link.springer.com/article/10.1007/s00707-019-02489-6)" *ACTA MECHANICA*, 2019.
+Liming Zhou, Shuhui Ren, Bin Nie, **Hongrong Yang**，Peng Liu, "[Magneto-electro-elastic node-based smoothed point interpolation method for micromechanical analysis of natural frequencies of nanobeams.](https://link.springer.com/article/10.1007/s00707-019-02489-6)" *ACTA MECHANICA*, 2019.
