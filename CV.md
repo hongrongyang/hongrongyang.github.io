@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CV"
+title: ""
 ---
 
 You can download my [CV] (https://hongrongyang.github.io/CV.pdf) here.
