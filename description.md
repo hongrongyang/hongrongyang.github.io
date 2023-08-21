@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Publications"
+title: " "
 ---
 
 {% if site.show_excerpts %}
