@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![Swiss Alps](https://hongrongyang.github.io/WechatIMG2.jpeg)
 
 I am a master student in Electrical Engineering at Tsinghua University, affiliated to the [Tsinghua-Berkeley Shenzhen Insititute](https://www.tbsi.edu.cn/). I am fortunate to be advised by [Prof. Yinliang Xu](https://scholar.google.com/citations?user=sppii6gAAAAJ&hl=zh-CN) and [Prof. Xuan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=B-I9FY8AAAAJ). My CV could be found [here](https://hongrongyang.github.io/CV.pdf).
 
