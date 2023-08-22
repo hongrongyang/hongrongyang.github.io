@@ -1,0 +1,12 @@
+---
+title:  ""
+mathjax: true
+layout: post
+categories: media
+---
+
+![Swiss Alps](https://hongrongyang.github.io/Maize1.jpeg)
+![Swiss Alps](https://hongrongyang.github.io/Maize2.jpeg)
+![Swiss Alps](https://hongrongyang.github.io/Maize3.jpeg)
+
+Maize is 3 years old, we always love him!
