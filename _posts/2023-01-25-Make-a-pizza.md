@@ -1,5 +1,5 @@
 ---
-title:  "Make a Pizza"
+title:  "Make a pizza"
 mathjax: true
 layout: post
 categories: media
