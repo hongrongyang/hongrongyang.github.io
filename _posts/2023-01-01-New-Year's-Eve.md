@@ -5,8 +5,8 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://hongrongyang.github.io/friend2.jpeg)
-![Swiss Alps](https://hongrongyang.github.io/friend3.jpeg)
-![Swiss Alps](https://hongrongyang.github.io/friend.jpeg)
+![Friends](https://hongrongyang.github.io/friend2.jpg)
+![Friends](https://hongrongyang.github.io/friend3.jpg)
+![Friends](https://hongrongyang.github.io/friend.jpg)
 
 It's been a long time, my dear friends.
