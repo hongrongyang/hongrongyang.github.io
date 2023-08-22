@@ -5,8 +5,8 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://hongrongyang.github.io/pizza2.jpeg)
-![Swiss Alps](https://hongrongyang.github.io/pizza1.jpeg)
-![Swiss Alps](https://hongrongyang.github.io/pizza.jpeg)
+![Pizza1](https://hongrongyang.github.io/pizza2.JPG)
+![Pizza2](https://hongrongyang.github.io/pizza1.JPG)
+![Pizza3](https://hongrongyang.github.io/pizza.JPG)
 
 I made my first pizza in Spring Festival and it was a success！
