@@ -9,7 +9,7 @@ title: "About me"
 
 I am a master student in Electrical Engineering at Tsinghua University, affiliated to the [Tsinghua-Berkeley Shenzhen Insititute](https://www.tbsi.edu.cn/). I am fortunate to be advised by [Prof. Yinliang Xu](https://scholar.google.com/citations?user=sppii6gAAAAJ&hl=zh-CN) and [Prof. Xuan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=B-I9FY8AAAAJ). My CV could be found [here](https://hongrongyang.github.io/CV.pdf)(*last update: July. 2023*).
 
-I am broadly interested in the **learning-based control** for **energy systems**. My previous research focused on the **deep reinforcement learning algorithms**, with applications to **electric vehicles fleets management with price incentives** and individual **EV battery management system**. The relevant papers could be found in [Publications page](https://hongrongyang.github.io/Publications). 
+I am broadly interested in the **learning-based control** for **energy systems**. My **previous research** focused on the deep reinforcement learning algorithms, with applications to **electric vehicles fleets management with price incentives** and **individual EV battery management system**. The relevant papers could be found in [Publications page](https://hongrongyang.github.io/Publications). 
 
 **My current researches are as follows**: 
 1. Design the **safe and distributed control methods** for the large and complex systems, with the ultimate goal of obtaining a better understanding of collective intelligence.​
