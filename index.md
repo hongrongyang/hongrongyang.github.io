@@ -12,6 +12,6 @@ I am a master student in Electrical Engineering at Tsinghua University, affiliat
 I am broadly interested in the **learning-based control**. My **previous research** focused on the deep reinforcement learning algorithms, with applications to EV fleets management and individual EV battery management system. The relevant papers could be found in [Publications page](https://hongrongyang.github.io/Publications). 
 
 **My current researches are as follows**: 
-1. Design the **safe and distributed learning-based control methods** for the large and complex systems, with the ultimate goal of obtaining a better understanding of collective intelligence.​
-2. Explore the impact of the **coordination of vehicle-to grid technology and the shared energy storage** on **carbon emissions and market prices** within the joint constraints of power and transportation networks.
-3. Investigate how to charge the EV batteries **safely** (avoid the battery lithium precipitation), **quickly** (allocate the charging energy for charging & heating) and **environmental friendly** (reduce battery aging and energy consumption) in **cold environments**.
+1. Design the safe and distributed learning-based control methods for the complex systems, with the ultimate goal of obtaining a better understanding of collective intelligence.​
+2. Explore the impact of the coordination of vehicle-to grid technology and the shared energy storage on carbon emissions and market prices within the joint constraints of power and transportation networks.
+3. Investigate how to charge the EV batteries safely (avoid the battery lithium precipitation), quickly (allocate the charging energy for charging & heating) and environmental friendly (reduce battery aging and energy consumption) in cold environments.
