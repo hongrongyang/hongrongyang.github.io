@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-- **Hongrong Yang**[1], Quanyi Chen[1], Yinliang Xu, Xuan Zhang, "[Fast Charging Management of Lithium-ion Battery and Cooling System: A Stackelberg Game-based Soft Actor Critic- Deep Reinforcement Learning Method.](https://hongrongyang.github.io/3.pdf)" *IEEE Transactions on Industrial Informatics*, under review.
+- **Hongrong Yang**[1], Quanyi Chen[1], Yinliang Xu, Xuan Zhang, "[Fast Charging Management of Lithium-ion Battery and Cooling System: A Stackelberg Game-based Soft Actor Critic- Deep Reinforcement Learning Method.](https://hongrongyang.github.io/3.pdf)" *Applied Energy*, under review.
 
 - **Hongrong Yang**, Yinliang Xu, Qinglai Guo, "[Charging Station Dynamic Pricing for Real-Time Congestion Management in Distribution Network: An Adaptive Model-Based Safe Deep Reinforcement Learning Method.](https://hongrongyang.github.io/2.pdf)" *IEEE Transactions on Sustainable Energy*, revision submitted to journal.
 
