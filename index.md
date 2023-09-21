@@ -13,5 +13,5 @@ I am broadly interested in the **learning-based control**. My previous research 
 
 **My current researches are as follows**: 
 1. Design the safe and distributed learning-based control methods for the complex and large systems.​
-2. Explore the impact of the coordination of vehicle-to grid technology and the shared energy storage on carbon emissions and market prices.
+2. Explore the impact of the coordination of vehicle-to grid technology and the shared energy storage on the carbon emissions and market prices.
 3. Investigate how to charge the EV batteries safely (avoid the battery lithium precipitation), quickly (allocate the energy for charging & heating) and environmental friendly (reduce the energy consumption) in cold environments.
