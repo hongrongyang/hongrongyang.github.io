@@ -4,7 +4,7 @@ title: "About me"
 ---
 
 <div  align="center">
-<img src="https://hongrongyang.github.io/me.jpeg" width="500" height="400" alt="" />
+<img src="https://hongrongyang.github.io/me.jpeg" width="400" height="300" alt="" />
 </div>
 
 I am a master student in Electrical Engineering at Tsinghua University, affiliated to the [Tsinghua-Berkeley Shenzhen Insititute](https://www.tbsi.edu.cn/). I am fortunate to be advised by [Prof. Yinliang Xu](https://scholar.google.com/citations?user=sppii6gAAAAJ&hl=zh-CN) and [Prof. Xuan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=B-I9FY8AAAAJ). My CV could be found [here](https://hongrongyang.github.io/CV.pdf)(*last update: July. 2023*).
