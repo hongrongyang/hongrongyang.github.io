@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-- **Hongrong Yang**, Yinliang Xu, Qinglai Guo, "[Charging Station Dynamic Pricing for Real-Time Congestion Management in Distribution Network: An Adaptive Model-Based Safe Deep Reinforcement Learning Method.](https://hongrongyang.github.io/2.pdf)" *IEEE Transactions on Sustainable Energy*, Accept.
+- **Hongrong Yang**, Yinliang Xu, Qinglai Guo, "[Charging Station Dynamic Pricing for Real-Time Congestion Management in Distribution Network: An Adaptive Model-Based Safe Deep Reinforcement Learning Method.](https://hongrongyang.github.io/2.pdf)" *IEEE Transactions on Sustainable Energy*, accepted.
 
 - **Hongrong Yang**, Yinliang Xu, Hongbin Sun, Qinglai Guo, Qiong Liu, "[Electric Vehicles Management in Distribution Network: A Data-Efficient Bi-level Deep Reinforcement Learning Method.](https://hongrongyang.github.io/1.pdf)" *IEEE Transactions on Power Systems*, under the second review.
 
