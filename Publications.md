@@ -11,4 +11,4 @@ title: ""
 
 - Mingyang Zhang, **Hongrong Yang**, Yinliang Xu, Hongbin Sun, "[Deep Reinforcement Learning for Real-time Dynamic Aggregation and Scheduling of Electric Vehicles.](https://hongrongyang.github.io/TSG.pdf)" *IEEE Transactions on Smart Grid*, under review.
 
-- Liming Zhou, Shuhui Ren, Bin Nie, **Hongrong Yang**，Peng Liu, "[Magneto-electro-elastic node-based smoothed point interpolation method for micromechanical analysis of natural frequencies of nanobeams.](https://link.springer.com/article/10.1007/s00707-019-02489-6)" *ACTA MECHANICA*, 2019.
+- Liming Zhou, Shuhui Ren, Bin Nie, **Hongrong Yang**, Peng Liu, "[Magneto-electro-elastic node-based smoothed point interpolation method for micromechanical analysis of natural frequencies of nanobeams.](https://link.springer.com/article/10.1007/s00707-019-02489-6)" *ACTA MECHANICA*, 2019.
